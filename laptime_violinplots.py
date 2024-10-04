@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 31 15:59:05 2023
-
-@author: msrms
-"""
 import fastf1 as ff1
 import pandas as pd
 import seaborn as sns

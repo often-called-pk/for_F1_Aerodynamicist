@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 15 19:01:19 2023
-
-@author: msrms
-"""
-
 
 import fastf1 as ff1
 import pandas as pd

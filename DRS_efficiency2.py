@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 17 20:04:52 2023
-
-@author: msrms
-"""
 
 import fastf1 as ff1
 from fastf1 import plotting

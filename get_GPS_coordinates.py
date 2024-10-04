@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 29 09:13:27 2023
-
-@author: mvvsk
-"""
 
 import fastf1 as ff1
 import numpy as np

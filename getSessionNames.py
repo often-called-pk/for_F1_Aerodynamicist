@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  2 11:16:09 2023
-
-@author: mvvsk
-"""
 
 import fastf1
 event = fastf1.get_event(2023, 'Austrian')
