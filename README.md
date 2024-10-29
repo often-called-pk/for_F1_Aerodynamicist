@@ -1,4 +1,5 @@
 the F1_aerodynamicist project
+
 i was able to clone the repo into mine and got familiar with the FastF1 api.
 then i started working on making it more user friendly
 the original script was just fixed to fetch data for 3 drivers - Norris, Hamilton and Verstappen and for just turn 1 and 2 [basically as the script says, between the distance markers 1140 and 2400]
